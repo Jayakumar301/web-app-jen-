@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>bec</h1>
+<h1 color=red>bec</h1>
 <h1>Hello</h1>
 <h2>Hello World!</h2>
 </body>
